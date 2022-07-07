@@ -10,7 +10,7 @@ export default function Wishlist() {
           <ProductCard
             name="Product 1"
             image="https://picsum.photos/200/240"
-            sku="product1"
+            slug="product1"
             realPrice="25"
             salePrice="20"
             rating="4.7"
@@ -22,7 +22,7 @@ export default function Wishlist() {
           <ProductCard
             name="Product 2"
             image="https://picsum.photos/200/240"
-            sku="product2"
+            slug="product2"
             realPrice="35"
             salePrice="25"
             rating="4.8"
@@ -34,7 +34,7 @@ export default function Wishlist() {
           <ProductCard
             name="Product 3"
             image="https://picsum.photos/200/240"
-            sku="product3"
+            slug="product3"
             realPrice="55"
             salePrice="40"
             rating="4.9"

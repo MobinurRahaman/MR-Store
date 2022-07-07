@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Men",
+    "icon": "https://picsum.photos/20",
+    "url": "men",
+    "categories": [
+      {
+        "name": "Topwears",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Shirts",
+            "icon": "https://picsum.photos/20",
+            "url": "shirts"
+          },
+          {
+            "name": "T-Shirts",
+            "icon": "https://picsum.photos/20",
+            "url": "tshirts"
+          },
+          {
+            "name": "Jackets",
+            "icon": "https://picsum.photos/20",
+            "url": "jackets"
+          },
+          {
+            "name": "Coats",
+            "icon": "https://picsum.photos/20",
+            "url": "coats"
+          },
+          {
+            "name": "Sweaters",
+            "icon": "https://picsum.photos/20",
+            "url": "sweaters"
+          }
+        ]
+      },
+      {
+        "name": "Bottomwears",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Pants",
+            "icon": "https://picsum.photos/20",
+            "url": "pants"
+          },
+          {
+            "name": "Trousers",
+            "icon": "https://picsum.photos/20",
+            "url": "trousers"
+          },
+          {
+            "name": "Shorts",
+            "icon": "https://picsum.photos/20",
+            "url": "shorts"
+          }
+        ]
+      },
+      {
+        "name": "Innerwears",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Briefs",
+            "icon": "https://picsum.photos/20",
+            "url": "briefs"
+          },
+          {
+            "name": "Trunks",
+            "icon": "https://picsum.photos/20",
+            "url": "trunks"
+          }
+        ]
+      },
+      {
+        "name": "Footwears",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Casual shoes",
+            "icon": "https://picsum.photos/20",
+            "url": "casual-shoes"
+          },
+          {
+            "name": "Formal shoes",
+            "icon": "https://picsum.photos/20",
+            "url": "formal-shoes"
+          },
+          {
+            "name": "Sports shoes",
+            "icon": "https://picsum.photos/20",
+            "url": "sports-shoes"
+          }
+        ]
+      },
+      {
+        "name": "Glasses",
+        "icon": "https://picsum.photos/20",
+        "url": "glasses"
+      },
+      {
+        "name": "Watches",
+        "icon": "https://picsum.photos/20",
+        "url": "watches"
+      },
+      { "name": "Bags", "icon": "https://picsum.photos/20", "url": "bags" },
+      {
+        "name": "Accessories",
+        "icon": "https://picsum.photos/20",
+        "url": "accessories"
+      }
+    ]
+  },
+  {
+    "name": "Women",
+    "icon": "https://picsum.photos/20",
+    "url": "women",
+    "categories": [
+      {
+        "name": "Topwears",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Tops",
+            "icon": "https://picsum.photos/20",
+            "url": "tops"
+          },
+          {
+            "name": "Shirts",
+            "icon": "https://picsum.photos/20",
+            "url": "shirts"
+          },
+          {
+            "name": "T-Shirts",
+            "icon": "https://picsum.photos/20",
+            "url": "tshirts"
+          },
+          {
+            "name": "Jackets",
+            "icon": "https://picsum.photos/20",
+            "url": "jackets"
+          },
+          {
+            "name": "Coats",
+            "icon": "https://picsum.photos/20",
+            "url": "coats"
+          },
+          {
+            "name": "Sweaters",
+            "icon": "https://picsum.photos/20",
+            "url": "sweaters"
+          }
+        ]
+      },
+      {
+        "name": "Bottomwears",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Pants",
+            "icon": "https://picsum.photos/20",
+            "url": "pants"
+          },
+          {
+            "name": "Trousers",
+            "icon": "https://picsum.photos/20",
+            "url": "trousers"
+          },
+          {
+            "name": "Skirts",
+            "icon": "https://picsum.photos/20",
+            "url": "skirts"
+          },
+          {
+            "name": "Shorts",
+            "icon": "https://picsum.photos/20",
+            "url": "shorts"
+          }
+        ]
+      },
+      {
+        "name": "Innerwears",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          { "name": "Bras", "icon": "https://picsum.photos/20", "url": "bras" },
+          {
+            "name": "Briefs",
+            "icon": "https://picsum.photos/20",
+            "url": "briefs"
+          },
+          {
+            "name": "Panties",
+            "icon": "https://picsum.photos/20",
+            "url": "panties"
+          }
+        ]
+      },
+      {
+        "name": "Footwears",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Casual shoes",
+            "icon": "https://picsum.photos/20",
+            "url": "casual-shoes"
+          },
+          {
+            "name": "Formal shoes",
+            "icon": "https://picsum.photos/20",
+            "url": "formal-shoes"
+          },
+          {
+            "name": "Sports shoes",
+            "icon": "https://picsum.photos/20",
+            "url": "sports-shoes"
+          },
+          {
+            "name": "Heels",
+            "icon": "https://picsum.photos/20",
+            "url": "heels"
+          }
+        ]
+      },
+      {
+        "name": "Glasses",
+        "icon": "https://picsum.photos/20",
+        "url": "glasses"
+      },
+      {
+        "name": "Watches",
+        "icon": "https://picsum.photos/20",
+        "url": "watches"
+      },
+      { "name": "Bags", "icon": "https://picsum.photos/20", "url": "bags" },
+      {
+        "name": "Accessories",
+        "icon": "https://picsum.photos/20",
+        "url": "accessories"
+      }
+    ]
+  },
+  {
+    "name": "Kids",
+    "icon": "https://picsum.photos/20",
+    "url": "kids",
+    "categories": [
+      {
+        "name": "Boys",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Shirts",
+            "icon": "https://picsum.photos/20",
+            "url": "shirts"
+          },
+          {
+            "name": "T-Shirts",
+            "icon": "https://picsum.photos/20",
+            "url": "tshirts"
+          },
+          {
+            "name": "Jackets",
+            "icon": "https://picsum.photos/20",
+            "url": "jackets"
+          },
+          {
+            "name": "Sweaters",
+            "icon": "https://picsum.photos/20",
+            "url": "sweaters"
+          },
+          {
+            "name": "Pants",
+            "icon": "https://picsum.photos/20",
+            "url": "pants"
+          },
+          {
+            "name": "Trousers",
+            "icon": "https://picsum.photos/20",
+            "url": "trousers"
+          },
+          {
+            "name": "Shorts",
+            "icon": "https://picsum.photos/20",
+            "url": "shorts"
+          }
+        ]
+      },
+      {
+        "name": "Girls",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Shirts",
+            "icon": "https://picsum.photos/20",
+            "url": "shirts"
+          },
+          {
+            "name": "T-Shirts",
+            "icon": "https://picsum.photos/20",
+            "url": "tshirts"
+          },
+          {
+            "name": "Jackets",
+            "icon": "https://picsum.photos/20",
+            "url": "jackets"
+          },
+          {
+            "name": "Coats",
+            "icon": "https://picsum.photos/20",
+            "url": "coats"
+          },
+          {
+            "name": "Sweaters",
+            "icon": "https://picsum.photos/20",
+            "url": "sweaters"
+          },
+          {
+            "name": "Pants",
+            "icon": "https://picsum.photos/20",
+            "url": "pants"
+          },
+          {
+            "name": "Trousers",
+            "icon": "https://picsum.photos/20",
+            "url": "trousers"
+          },
+          {
+            "name": "Shorts",
+            "icon": "https://picsum.photos/20",
+            "url": "shorts"
+          }
+        ]
+      },
+      {
+        "name": "Footwears",
+        "icon": "https://picsum.photos/20",
+        "items": [
+          {
+            "name": "Casual shoes",
+            "icon": "https://picsum.photos/20",
+            "url": "casual-shoes"
+          },
+          {
+            "name": "Formal shoes",
+            "icon": "https://picsum.photos/20",
+            "url": "formal-shoes"
+          },
+          {
+            "name": "Sports shoes",
+            "icon": "https://picsum.photos/20",
+            "url": "sports-shoes"
+          },
+          {
+            "name": "Heels",
+            "icon": "https://picsum.photos/20",
+            "url": "heels"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Electronics",
+    "icon": "https://picsum.photos/20",
+    "url": "electronics",
+    "categories": [
+      {
+        "name": "Mobiles",
+        "icon": "https://picsum.photos/20",
+        "url": "mobiles"
+      },
+      {
+        "name": "Tablets",
+        "icon": "https://picsum.photos/20",
+        "url": "tablets"
+      },
+      {
+        "name": "Smart watches",
+        "icon": "https://picsum.photos/20",
+        "url": "smart-watches"
+      },
+      {
+        "name": "Laptops",
+        "icon": "https://picsum.photos/20",
+        "url": "laptops"
+      },
+      {
+        "name": "Desktops",
+        "icon": "https://picsum.photos/20",
+        "url": "desktops"
+      },
+      { "name": "TVs", "icon": "https://picsum.photos/20", "url": "tvs" },
+      {
+        "name": "Headphones",
+        "icon": "https://picsum.photos/20",
+        "url": "headphones"
+      },
+      {
+        "name": "Power banks",
+        "icon": "https://picsum.photos/20",
+        "url": "power-banks"
+      },
+      {
+        "name": "Mobile accessories",
+        "icon": "https://picsum.photos/20",
+        "url": "mobile-accessories"
+      },
+      {
+        "name": "Speakers",
+        "icon": "https://picsum.photos/20",
+        "url": "speakers"
+      },
+      { "name": "Mouses", "icon": "https://picsum.photos/20", "url": "mouses" },
+      {
+        "name": "Keyboards",
+        "icon": "https://picsum.photos/20",
+        "url": "keyboards"
+      },
+      { "name": "Disks", "icon": "https://picsum.photos/20", "url": "disks" },
+      { "name": "Cameras", "icon": "https://picsum.photos/20", "url": "cameras" },
+      {
+        "name": "Washing machines",
+        "icon": "https://picsum.photos/20",
+        "url": "washing-machines"
+      },
+      {
+        "name": "Air conditioners",
+        "icon": "https://picsum.photos/20",
+        "url": "air-conditioners"
+      },
+      {
+        "name": "Fans and coolers",
+        "icon": "https://picsum.photos/20",
+        "url": "fans-and-coolers"
+      },
+      {
+        "name": "Refrigerators",
+        "icon": "https://picsum.photos/20",
+        "url": "refrigerators"
+      }
+    ]
+  }
+]
